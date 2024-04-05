@@ -6,3 +6,6 @@ int n;       // Number of elements in the array
 int i;       // index of array element
 
 void input()
+{
+	while (true)
+}
